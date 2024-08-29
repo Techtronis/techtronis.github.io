@@ -129,6 +129,11 @@ button:hover {
     height: 100%;
 }
 
+.hero-image2 {
+    width: 10%;
+    height: 10%;
+}
+
 footer {
     height: 100px;
     width: 1000%;
