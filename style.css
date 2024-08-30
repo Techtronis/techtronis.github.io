@@ -5,6 +5,10 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.links {
+    font-size: x-large;
+}
+
 .topnav {
     height: 80px;
     background-color: rgb(175, 23, 23);
